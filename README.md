@@ -20,7 +20,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: VISMAYA
+Developed by: VISMAYA.S
 RegisterNumber:  212221230125
 */
 ``
@@ -65,23 +65,18 @@ classification_report1
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
-# HEAD 1:
-![output](OP1.png)
-# HEAD 2:
-![output](OP2.png)
-# encoder:
-![output](OP3.png)
-# accuracy:
-![output](OP4.png)
-# Confusion:
-![output](OP5.png)
-# classification:
-![output](OP6.png)
-# prediction :
-y predict
-![output](OP7.png)
-ir predict 
 
-![output](OP8.png)
+
+![output](o2.png)
+
+![output](o4.png)
+
+![output](o5.png)
+
+![output](o6.png)
+
+![output](o7.png)
+
+![output](o8.png)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
